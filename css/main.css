@@ -91,7 +91,7 @@ nav { /* Navigation Bar */
 }
 
 .page-title {
-    padding-top: 70vh;
+    padding-top: 50vh;
     text-align: center;
     font-size: 2rem;
     font-family: ocr-b-std, monospace;
@@ -136,7 +136,7 @@ nav { /* Navigation Bar */
 
 .big-bg {
     background-size: cover;
-    margin-top: 3rem;
+    /* margin-top: 3rem; */
     background-position: center;
     background-repeat: no-repeat;
 }
